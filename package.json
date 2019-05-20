@@ -1,0 +1,23 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "[**Go to the app!**](https://acrenwelge.github.io/timestamp)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acrenwelge/timestamp.git"
+  },
+  "author": "Andrew Crenwelge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acrenwelge/timestamp/issues"
+  },
+  "homepage": "https://github.com/acrenwelge/timestamp#readme",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
